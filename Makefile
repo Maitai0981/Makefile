@@ -11,7 +11,7 @@ endif
 CXX = g++
 CXXFLAGS = -O2 -Wall -std=c++17
 
-c ?= main.cpp
+c ?= l.cpp
 en ?= en.txt
 out = out.txt
 
